@@ -1,118 +1,276 @@
 <div align="center">
 
-# ¡Hola! Soy Cesar Adrian
-## Full Stack Developer | Cybersecurity Engineer | Competitive Programmer
+<!-- HERO -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+secure+systems;Solving+algorithms;Breaking+things+to+fix+them;Learning+everyday" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:0A66C2,100:00D9FF&text=Cesar%20Adrian%20Guevara%20Salcedo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=16" />
 
-### 🇵🇪 Lima, Perú | 🎓 UNI - Cybersecurity Engineering
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+secure+and+scalable+web+systems;Engineering+with+security+from+day+one;Solving+algorithms+with+discipline+and+precision;Turning+technical+depth+into+production-ready+software" alt="Typing SVG" />
+
+<br />
+
+<a href="https://github.com/CyberStill-GmbH?tab=repositories">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cesar-adrian-guevara-salcedo-b3b3932b1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ceadrianguevara2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/CyberStill">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://codeforces.com/profile/CyberStill">
+  <img src="https://img.shields.io/badge/Codeforces-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Professional Summary
+
+I am a Full Stack Developer and Cybersecurity Engineering student at Universidad Nacional de Ingeniería, based in Lima, Peru. My work focuses on building secure, scalable and maintainable systems, combining software engineering, web security and algorithmic problem solving.
+
+My profile connects three areas that are highly valuable in engineering teams: full stack development, cybersecurity fundamentals and competitive programming discipline. I care about clean architecture, secure coding, performance and shipping projects that can be evaluated beyond a demo.
+
+---
+
+## Technical Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Software Engineering</h3>
+      <p>Full stack applications, APIs, frontend architecture, backend services, databases and deployment workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Cybersecurity</h3>
+      <p>Secure coding, OWASP Top 10, vulnerability assessment, authentication, authorization and defensive engineering.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Competitive Programming</h3>
+      <p>Algorithms, data structures, problem solving under pressure and continuous improvement through measurable practice.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Engineering Stack
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberStill-GmbH&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117)](https://github.com/CyberStill-GmbH)
+### Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberStill-GmbH&theme=dark&hide_border=true&layout=compact&bg_color=0d1117)](https://github.com/CyberStill-GmbH)
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,cpp&theme=dark" />
+
+### Frontend and Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&theme=dark" />
+
+### Cloud, DevOps and Databases
+
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,git,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 Competitive Programming
+## GitHub Performance
 
 <div align="center">
 
-### LeetCode
-| Metric | Value |
-|--------|-------|
-| Problems Solved | 220 |
-| Global Rating | 1,684 |
-| Rank | 125,185 / 874,449 |
-| Percentile | Top 14.59% |
-| Languages | Python, JS, TS, Rust, C++ |
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberStill-GmbH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberStill-GmbH&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-### Codeforces
-| Metric | Value |
-|--------|-------|
-| Current Rating | 389 |
-| Status | Div 2 |
-| Focus | Foundation → Mastery |
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberStill-GmbH&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💻 Stack
+## Commit Activity and Contribution History
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberStill-GmbH&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberStill-GmbH&theme=github_dark" alt="Profile Summary" />
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberStill-GmbH&theme=github_dark&utcOffset=-5" alt="Productive Time" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberStill-GmbH&theme=github_dark" alt="Repos per Language" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Proyectos
+## Competitive Programming
 
-### CrabKit [In Development]
-> Security tooling built with Rust | Systems programming | Performance-focused
-
-**Status:** 🔨 Building | **Tech:** Rust | [GitHub](https://github.com/CyberStill-GmbH)
-
-### Full Stack Projects
-Web applications, security tools, competitive programming solutions
-
-[Ver todos los repos →](https://github.com/CyberStill-GmbH?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LeetCode</h3>
+      <table>
+        <tr><td><strong>Problems Solved</strong></td><td>220</td></tr>
+        <tr><td><strong>Global Rating</strong></td><td>1,684</td></tr>
+        <tr><td><strong>Rank</strong></td><td>125,185 / 874,449</td></tr>
+        <tr><td><strong>Percentile</strong></td><td>Top 14.59%</td></tr>
+        <tr><td><strong>Languages</strong></td><td>Python, JavaScript, TypeScript, Rust, C++</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Codeforces</h3>
+      <table>
+        <tr><td><strong>Current Rating</strong></td><td>389</td></tr>
+        <tr><td><strong>Current Track</strong></td><td>Foundation to Mastery</td></tr>
+        <tr><td><strong>Focus</strong></td><td>Math, implementation, greedy, graphs, dynamic programming</td></tr>
+        <tr><td><strong>Goal</strong></td><td>Build strong contest consistency</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔐 Especialización
+## Selected Projects
 
-**Web Security** | OWASP Top 10 | Secure Coding | Vulnerability Assessment
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CrabKit</h3>
+      <p><strong>Status:</strong> In development</p>
+      <p><strong>Tech:</strong> Rust, systems programming, security tooling</p>
+      <p>
+        CrabKit is a security-focused toolset built with Rust. The project is oriented toward performance, reliability and low-level engineering practice.
+      </p>
+      <a href="https://github.com/CyberStill-GmbH">View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full Stack Projects</h3>
+      <p><strong>Focus:</strong> Web applications, backend services, security tools and algorithmic solutions</p>
+      <p>
+        A growing collection of repositories that reflect practical engineering, secure development and continuous technical improvement.
+      </p>
+      <a href="https://github.com/CyberStill-GmbH?tab=repositories">View all repositories</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Goals 2026
+## Security Profile
 
-- [ ] Reach Codeforces Div1 (1400+)
-- [ ] Build 3 production projects  
-- [ ] Master AWS Solutions Architect
-- [ ] Full Stack SWE @ FAANG
+<table>
+  <tr>
+    <td><strong>Web Security</strong></td>
+    <td>OWASP Top 10, authentication, authorization, secure API design and application hardening.</td>
+  </tr>
+  <tr>
+    <td><strong>Secure Coding</strong></td>
+    <td>Writing code with attention to input validation, error handling, dependency risk and defensive design.</td>
+  </tr>
+  <tr>
+    <td><strong>Vulnerability Assessment</strong></td>
+    <td>Identifying weaknesses, understanding attack surfaces and proposing practical remediation paths.</td>
+  </tr>
+  <tr>
+    <td><strong>Systems Mindset</strong></td>
+    <td>Interest in Rust, performance, reliability and security tooling.</td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Contacto
+## 2025 Roadmap
+
+<table>
+  <tr>
+    <td width="25%"><strong>Competitive Programming</strong></td>
+    <td>Reach Codeforces 1400+ through structured training and consistent contests.</td>
+  </tr>
+  <tr>
+    <td><strong>Production Projects</strong></td>
+    <td>Build and deploy three production-level projects with clear documentation and measurable value.</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Engineering</strong></td>
+    <td>Master AWS Solutions Architect fundamentals and apply them in real deployments.</td>
+  </tr>
+  <tr>
+    <td><strong>Career Direction</strong></td>
+    <td>Prepare for Full Stack Software Engineering opportunities in high-performance engineering teams.</td>
+  </tr>
+</table>
+
+---
+
+## Why This Profile Matters
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Builder</h3>
+      <p>I build full stack systems and care about turning ideas into working products.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Security-Oriented</h3>
+      <p>I approach development with security awareness, risk thinking and defensive engineering.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Algorithmic Thinker</h3>
+      <p>I train problem solving through competitive programming and structured technical practice.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-adrian-guevara-salcedo-b3b3932b1)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ceadrianguevara2004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/CyberStill)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F1C3F?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CyberStill)
+<a href="https://www.linkedin.com/in/cesar-adrian-guevara-salcedo-b3b3932b1">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ceadrianguevara2004@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/CyberStill-GmbH?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<strong>Based in Lima, Peru</strong><br />
+<strong>Universidad Nacional de Ingeniería</strong><br />
+<strong>Full Stack Development · Cybersecurity · Competitive Programming</strong>
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:0A66C2,100:0D1117" />
 
 </div>
 
----
-
-<div align="center">
-
-**Last Updated:** May 2026
-
-_Code with purpose. Build secure. Never stop learning._
-
-</div>
