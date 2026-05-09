@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- HERO -->
+<!-- HERO SECTION -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:0A66C2,100:00D9FF&text=Cesar%20Adrian%20Guevara%20Salcedo&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=16" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+secure+and+scalable+web+systems;Engineering+with+security+from+day+one;Solving+algorithms+with+discipline+and+precision;Turning+technical+depth+into+production-ready+software" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050A14,45:0A66C2,100:00D9FF&text=Cesar%20Adrian%20Guevara%20Salcedo&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Engineering%20%7C%20Competitive%20Programming&descAlignY=58&descSize=16" />
 
 <br />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=I+build+secure+and+scalable+web+systems;I+combine+software+engineering+with+cybersecurity;I+solve+problems+with+algorithmic+thinking;I+turn+technical+depth+into+real+products" alt="Typing SVG" />
+
+<br />
+<br />
+
 <a href="https://github.com/CyberStill-GmbH?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/cesar-adrian-guevara-salcedo-b3b3932b1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,52 +27,97 @@
   <img src="https://img.shields.io/badge/Codeforces-111827?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=CyberStill-GmbH&style=for-the-badge&color=0A66C2&label=PROFILE%20VIEWS" />
+
 </div>
 
 ---
 
-## Professional Summary
+<div align="center">
 
-I am a Full Stack Developer and Cybersecurity Engineering student at Universidad Nacional de Ingeniería, based in Lima, Peru. My work focuses on building secure, scalable and maintainable systems, combining software engineering, web security and algorithmic problem solving.
+## Positioning
 
-My profile connects three areas that are highly valuable in engineering teams: full stack development, cybersecurity fundamentals and competitive programming discipline. I care about clean architecture, secure coding, performance and shipping projects that can be evaluated beyond a demo.
-
----
-
-## Technical Focus
+</div>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Software Engineering</h3>
-      <p>Full stack applications, APIs, frontend architecture, backend services, databases and deployment workflows.</p>
+    <td width="60%" valign="top">
+      <h3>Full Stack Developer with a Security-First Mindset</h3>
+      <p>
+        I am a Cybersecurity Engineering student at Universidad Nacional de Ingeniería, based in Lima, Peru. My work focuses on building secure, scalable and maintainable software systems, combining web development, application security and algorithmic problem solving.
+      </p>
+      <p>
+        I am especially interested in engineering roles where software quality, security awareness, performance and product execution matter from the beginning.
+      </p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Cybersecurity</h3>
-      <p>Secure coding, OWASP Top 10, vulnerability assessment, authentication, authorization and defensive engineering.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Competitive Programming</h3>
-      <p>Algorithms, data structures, problem solving under pressure and continuous improvement through measurable practice.</p>
+    <td width="40%" valign="top">
+      <h3>Recruiter Snapshot</h3>
+      <table>
+        <tr><td><strong>Location</strong></td><td>Lima, Peru</td></tr>
+        <tr><td><strong>University</strong></td><td>UNI</td></tr>
+        <tr><td><strong>Focus</strong></td><td>Full Stack + Security</td></tr>
+        <tr><td><strong>Strength</strong></td><td>Builder mindset</td></tr>
+        <tr><td><strong>Edge</strong></td><td>Algorithms + secure coding</td></tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ---
 
-## Engineering Stack
+<div align="center">
+
+## Core Value
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Software Builder</h3>
+      <p align="center">
+        Full stack applications, APIs, frontend architecture, backend services and deployment-ready systems.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Security-Oriented</h3>
+      <p align="center">
+        Secure coding, OWASP Top 10, vulnerability assessment, authentication and defensive engineering.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Algorithmic Thinker</h3>
+      <p align="center">
+        Competitive programming discipline, data structures, problem solving and technical consistency.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
 
-### Languages
+## Engineering Stack
+
+<p>
+  <strong>Languages</strong>
+</p>
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,rust,cpp&theme=dark" />
 
-### Frontend and Backend
+<p>
+  <strong>Frontend and Backend</strong>
+</p>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&theme=dark" />
 
-### Cloud, DevOps and Databases
+<p>
+  <strong>Cloud, DevOps and Databases</strong>
+</p>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,git,linux&theme=dark" />
 
@@ -77,55 +125,59 @@ My profile connects three areas that are highly valuable in engineering teams: f
 
 ---
 
-## GitHub Performance
+<div align="center">
+
+## GitHub Activity Dashboard
+
+</div>
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberStill-GmbH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberStill-GmbH&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&rank_icon=github" alt="GitHub Stats" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberStill-GmbH&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+    <td width="50%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com?user=CyberStill-GmbH&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberStill-GmbH&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
-## Commit Activity and Contribution History
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberStill-GmbH&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
 <br />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberStill-GmbH&theme=github_dark" alt="Profile Summary" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberStill-GmbH&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20and%20Contribution%20History" alt="Commit and Contribution History" />
 
+<br />
 <br />
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberStill-GmbH&theme=github_dark" alt="Most Commit Language" />
+    </td>
+    <td width="33%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberStill-GmbH&theme=github_dark" alt="Repositories per Language" />
+    </td>
+    <td width="33%" valign="top">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberStill-GmbH&theme=github_dark&utcOffset=-5" alt="Productive Time" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberStill-GmbH&theme=github_dark" alt="Repos per Language" />
-    </td>
   </tr>
 </table>
+
+<br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberStill-GmbH&theme=github_dark" alt="Profile Details" />
 
 </div>
 
 ---
 
-## Competitive Programming
+<div align="center">
+
+## Competitive Programming Profile
+
+</div>
 
 <table>
   <tr>
@@ -138,22 +190,32 @@ My profile connects three areas that are highly valuable in engineering teams: f
         <tr><td><strong>Percentile</strong></td><td>Top 14.59%</td></tr>
         <tr><td><strong>Languages</strong></td><td>Python, JavaScript, TypeScript, Rust, C++</td></tr>
       </table>
+      <p>
+        Competitive programming strengthens my ability to reason under pressure, optimize solutions and translate complex problems into clear implementation strategies.
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Codeforces</h3>
       <table>
         <tr><td><strong>Current Rating</strong></td><td>389</td></tr>
-        <tr><td><strong>Current Track</strong></td><td>Foundation to Mastery</td></tr>
+        <tr><td><strong>Track</strong></td><td>Foundation to Mastery</td></tr>
         <tr><td><strong>Focus</strong></td><td>Math, implementation, greedy, graphs, dynamic programming</td></tr>
-        <tr><td><strong>Goal</strong></td><td>Build strong contest consistency</td></tr>
+        <tr><td><strong>Objective</strong></td><td>Build contest consistency and reach 1400+</td></tr>
       </table>
+      <p>
+        My current goal is to convert consistent practice into measurable contest growth through structured training and post-contest analysis.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Selected Projects
+<div align="center">
+
+## Selected Engineering Work
+
+</div>
 
 <table>
   <tr>
@@ -162,33 +224,41 @@ My profile connects three areas that are highly valuable in engineering teams: f
       <p><strong>Status:</strong> In development</p>
       <p><strong>Tech:</strong> Rust, systems programming, security tooling</p>
       <p>
-        CrabKit is a security-focused toolset built with Rust. The project is oriented toward performance, reliability and low-level engineering practice.
+        Security-focused tooling built with Rust. The project reflects interest in performance, reliability, low-level engineering and practical cybersecurity workflows.
       </p>
-      <a href="https://github.com/CyberStill-GmbH">View repository</a>
+      <p>
+        <a href="https://github.com/CyberStill-GmbH">View repository</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Full Stack Projects</h3>
-      <p><strong>Focus:</strong> Web applications, backend services, security tools and algorithmic solutions</p>
+      <p><strong>Focus:</strong> Web apps, APIs, security tools and algorithmic solutions</p>
       <p>
-        A growing collection of repositories that reflect practical engineering, secure development and continuous technical improvement.
+        Practical repositories focused on software architecture, secure development, clean implementation and continuous technical improvement.
       </p>
-      <a href="https://github.com/CyberStill-GmbH?tab=repositories">View all repositories</a>
+      <p>
+        <a href="https://github.com/CyberStill-GmbH?tab=repositories">View all repositories</a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Security Profile
+<div align="center">
+
+## Security Engineering Focus
+
+</div>
 
 <table>
   <tr>
-    <td><strong>Web Security</strong></td>
+    <td width="25%"><strong>Web Security</strong></td>
     <td>OWASP Top 10, authentication, authorization, secure API design and application hardening.</td>
   </tr>
   <tr>
     <td><strong>Secure Coding</strong></td>
-    <td>Writing code with attention to input validation, error handling, dependency risk and defensive design.</td>
+    <td>Input validation, error handling, dependency risk, defensive design and maintainable code practices.</td>
   </tr>
   <tr>
     <td><strong>Vulnerability Assessment</strong></td>
@@ -196,26 +266,30 @@ My profile connects three areas that are highly valuable in engineering teams: f
   </tr>
   <tr>
     <td><strong>Systems Mindset</strong></td>
-    <td>Interest in Rust, performance, reliability and security tooling.</td>
+    <td>Rust, reliability, performance, security tooling and deeper engineering fundamentals.</td>
   </tr>
 </table>
 
 ---
 
-## 2025 Roadmap
+<div align="center">
+
+## 2025 Engineering Roadmap
+
+</div>
 
 <table>
   <tr>
     <td width="25%"><strong>Competitive Programming</strong></td>
-    <td>Reach Codeforces 1400+ through structured training and consistent contests.</td>
+    <td>Reach Codeforces 1400+ through structured training, problem classification and consistent contest participation.</td>
   </tr>
   <tr>
     <td><strong>Production Projects</strong></td>
-    <td>Build and deploy three production-level projects with clear documentation and measurable value.</td>
+    <td>Build and deploy three production-level projects with clear documentation, measurable value and security considerations.</td>
   </tr>
   <tr>
     <td><strong>Cloud Engineering</strong></td>
-    <td>Master AWS Solutions Architect fundamentals and apply them in real deployments.</td>
+    <td>Master AWS Solutions Architect fundamentals and apply cloud concepts in real deployments.</td>
   </tr>
   <tr>
     <td><strong>Career Direction</strong></td>
@@ -225,30 +299,40 @@ My profile connects three areas that are highly valuable in engineering teams: f
 
 ---
 
-## Why This Profile Matters
+<div align="center">
+
+## What I Bring to a Team
+
+</div>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Builder</h3>
-      <p>I build full stack systems and care about turning ideas into working products.</p>
+      <h3 align="center">Execution</h3>
+      <p align="center">
+        I focus on building projects that work, can be reviewed and can evolve beyond a first version.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Security-Oriented</h3>
-      <p>I approach development with security awareness, risk thinking and defensive engineering.</p>
+      <h3 align="center">Security Awareness</h3>
+      <p align="center">
+        I think about risks, vulnerabilities and defensive decisions while designing and writing software.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Algorithmic Thinker</h3>
-      <p>I train problem solving through competitive programming and structured technical practice.</p>
+      <h3 align="center">Learning Velocity</h3>
+      <p align="center">
+        I train consistently through projects, algorithms, cybersecurity practice and engineering fundamentals.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Contact
-
 <div align="center">
+
+## Contact
 
 <a href="https://www.linkedin.com/in/cesar-adrian-guevara-salcedo-b3b3932b1">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -270,7 +354,6 @@ My profile connects three areas that are highly valuable in engineering teams: f
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:0A66C2,100:0D1117" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:0A66C2,100:050A14" />
 
 </div>
-
