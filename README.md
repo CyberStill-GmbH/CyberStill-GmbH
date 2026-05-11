@@ -71,6 +71,7 @@ Me encanta resolver problemas complejos bajo presión. LeetCode, Codeforces, la 
 ![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)
 ![Rust](https://skillicons.dev/icons?i=rust&theme=dark&perline=6)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark&perline=6)
+![PHP](https://skillicons.dev/icons?i=php&theme=dark&perline=6)
 
 **Frontend**  
 ![React](https://skillicons.dev/icons?i=react&theme=dark&perline=6)
@@ -81,6 +82,7 @@ Me encanta resolver problemas complejos bajo presión. LeetCode, Codeforces, la 
 **Backend**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark&perline=6)
 ![Express](https://skillicons.dev/icons?i=express&theme=dark&perline=6)
+![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark&perline=6)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark&perline=6)
 
 **Databases**  
