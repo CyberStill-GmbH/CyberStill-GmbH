@@ -56,11 +56,10 @@ Construyendo sistemas seguros y escalables desde **Lima, Perú** 🇵🇪
 
 ## **→ Competitive Programming**
 
-Me encanta resolver problemas complejos bajo presión. LeetCode, Codeforces, la adrenalina de optimizar esa solución en O(n).
+Me encanta resolver problemas complejos bajo presión. LeetCode, AtCoder, la adrenalina de optimizar esa solución en O(n).
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/CyberStill)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ceadrianguevara2004)
-
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F1C3F?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/CyberStill)
 ---
 
 ## **→ Stack**
